@@ -23,7 +23,7 @@ dfs_contest_itm = read.csv("./data/dfs_contest_itm.csv", header = TRUE, sep = ",
 #####################################
 # Initialize Model Parameters
 #####################################
-mu = 140 # Initial User Guess
+
 z_score = 0.674 # 50% confidence interval
 
 #####################################

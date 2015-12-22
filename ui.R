@@ -27,6 +27,15 @@ shinyUI(pageWithSidebar(
     , sliderInput('mu', 'Guess at the money target',value = 140, min = 90, max = 200, step = 2.5)
    
    , submitButton("Submit")
+   
+   ,  h3("Supporting Documentation")
+   , ("Instructions the user will need to get started using this application.")
+   , h4("========================")
+   , h4("1. Select desired DFS Site.")
+   , h4("2. Optionally select a guess money target.")
+   , h4("3. Note Contest, NFL Slate and Optimization Model are for UI Demonstration only.")
+   , h4("4. Click Submit. Reactive Output will display.")
+   , h4("========================")
   ),
   
   mainPanel(

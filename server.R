@@ -56,6 +56,7 @@ shinyServer(
       })
         
       output$ffpgdistplot <- renderPlot(function() {
+        mu = input$mu
         # check for the input variable
         if (input$dfs_site == 1) {
           # DraftKings
@@ -89,7 +90,7 @@ shinyServer(
           
                       
         }
-        mu = input$mu
+       
         p = p + ylab("") + ggtitle("Optimized Lineup Point Distribution") +
           theme_bw() +  theme(plot.title = element_text(lineheight=1.2, face="bold")) +
           geom_vline(xintercept = c(pts, tcash, ttourney, mu) ,
