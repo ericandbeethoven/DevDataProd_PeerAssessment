@@ -14,7 +14,7 @@ index.Rpres - Rstudio Presentation with Shiny App Pitch
 
 ## Links
 
-### RPubs Shiny App Pitch Presentation http://rpubs.com/ebrucecfa/DevDataProd_PeerAssessment
+#### RPubs Shiny App Pitch Presentation http://rpubs.com/ebrucecfa/DevDataProd_PeerAssessment
 
-### Shiny App - https://ebrucecfa.shinyapps.io/DevDataProd_ProjectAssessment
+#### Shiny App - https://ebrucecfa.shinyapps.io/DevDataProd_ProjectAssessment
 
