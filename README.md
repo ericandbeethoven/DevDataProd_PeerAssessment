@@ -12,10 +12,11 @@ index.Rpres - Rstudio Presentation with Shiny App Pitch
 
 /data - Shiny App Data
 
-/index-figure - Embedded figures for Rstudio Presentation
-
 ## Links
-** RPubs Shiny App Pitch Presentation** http://rpubs.com/ebrucecfa/DevDataProd_PeerAssessment
 
-** Shiny App** https://ebrucecfa.shinyapps.io/DevDataProd_ProjectAssessment
+#### RPubs Shiny App Pitch Presentation 
+http://rpubs.com/ebrucecfa/DevDataProd_PeerAssessment
+
+#### Shiny App 
+https://ebrucecfa.shinyapps.io/DevDataProd_ProjectAssessment
 
