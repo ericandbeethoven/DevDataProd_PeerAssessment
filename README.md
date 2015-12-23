@@ -8,7 +8,7 @@ server.R - Server calculations that generate reactive output for the Shiny App
 
 global.R - Robust Data Load, Transformation and Optimation Engine calculations that run before the Shiny App itself runs
 
-index.Rpres - Rstudio Presentation with Shiny App Pitch
+index.Rpres - Rstudio Presentation with Shiny App Pitch includes embedded R code
 
 /data - Shiny App Data
 
@@ -16,6 +16,9 @@ index.Rpres - Rstudio Presentation with Shiny App Pitch
 
 #### RPubs Shiny App Pitch Presentation 
 http://rpubs.com/ebrucecfa/DevDataProd_PeerAssessment
+
+#### GitHub Shiny App Pitch Presentation 
+http://ericandbeethoven.github.io/DevDataProd_PeerAssessment
 
 #### Shiny App 
 https://ebrucecfa.shinyapps.io/DevDataProd_ProjectAssessment
